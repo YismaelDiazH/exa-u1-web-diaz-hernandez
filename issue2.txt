@@ -1,1 +1,2 @@
 Primer commit de issue2
+Segundo commit de issue2
